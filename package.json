@@ -1,0 +1,26 @@
+{
+  "name": "slyde",
+  "version": "1.0.0",
+  "description": "Responsive Touch Slider",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kasra Shamsaei",
+  "license": "MIT",
+  "dependencies": {
+    "xeer-js": "^0.4.3-beta.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "parcel": "^2.0.0-beta.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasra-sh/slyde.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasra-sh/slyde/issues"
+  },
+  "homepage": "https://github.com/kasra-sh/slyde#readme"
+}
