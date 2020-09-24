@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kasra-sh/slyde.git"
+    "url": "git+https://github.com/kasra-sh/Slyde.git"
   },
   "bugs": {
-    "url": "https://github.com/kasra-sh/slyde/issues"
+    "url": "https://github.com/kasra-sh/Slyde/issues"
   },
-  "homepage": "https://github.com/kasra-sh/slyde#readme"
+  "homepage": "https://github.com/kasra-sh/Slyde#readme"
 }
